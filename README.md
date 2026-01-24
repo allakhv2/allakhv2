@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @allakhv2, AI Project Manager and Analyst, based in Warsaw, Poland
-- 👀 I’m interested in exploring copilot tools and modern CRMs
-- 🌱 I’m currently learning Linear app
-- 💞️ I’m looking to collaborate on visual projects and projects with AI
-- 📫 How to reach me +48 516 418 330
-- 😄 Pronouns: she / her 
-- ⚡ Fun fact: my son lost my only car keys
-- My website is https://alla-bukuyazava.tilda.ws/about-me
-<!---
-allakhv2/allakhv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# AI Business Analysis in AI Transformation
+
+## Why this repository exists
+Companies adopt AI faster than they understand how to use it.
+This repository shows how a Business Analyst enables successful AI adoption
+by translating business problems into AI-ready requirements.
+
+## My role as an AI Business Analyst / Product Manager 
+I work at the intersection of:
+- Business goals and constraints
+- Data availability and quality
+- AI capabilities and limitations
+- Risk, compliance, and human decision-making
+
+## What I focus on (not generic AI expertise)
+- Identifying AI-suitable business problems
+- Defining AI-specific requirements and acceptance criteria
+- Assessing data readiness and bias risks
+- Designing human-in-the-loop workflows
+- Managing expectations and AI-related risks
+
+## What this repository contains
+This repository will gradually include:
+- AI problem framing checklists
+- Business-to-AI canvases
+- AI requirements templates
+- Human-AI decision flow examples
+- Practical case studies (realistic and hypothetical)
+
+## What this repository is NOT
+- Machine learning tutorials
+- Prompt engineering experiments
+- Model training or optimization
