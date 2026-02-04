@@ -5,7 +5,7 @@ Companies adopt AI faster than they understand how to use it.
 This repository shows how a Business Analyst enables successful AI adoption
 by translating business problems into AI-ready requirements.
 
-## My role as an AI Business Analyst / Product Manager 
+## My role as an AI Business Analyst / PM
 I work at the intersection of:
 - Business goals and constraints
 - Data availability and quality
