@@ -1,4 +1,4 @@
-# AI Business Analysis in AI Transformation
+# AI Business Analysis / Coordination in AI Transformation
 
 ## Why this repository exists
 Companies adopt AI faster than they understand how to use it.
