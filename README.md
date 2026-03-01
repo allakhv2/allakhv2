@@ -1,4 +1,4 @@
-# AI Business Analysis / Coordination in AI Transformation
+# AI Business Analysis / Coordination in product launches
 
 ## Why this repository exists
 Companies adopt AI faster than they understand how to use it.
